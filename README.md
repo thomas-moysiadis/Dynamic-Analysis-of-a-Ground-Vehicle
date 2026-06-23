@@ -1,2 +1,2 @@
 # Dynamic-Analysis-of-a-Ground-Vehicle
-Matlab scripts for Modal Analysis and Numerical Integration with Newmark and Central Difference
+Matlab scripts for modal analysis and numerical integration with Newmark and Central Difference methods.
