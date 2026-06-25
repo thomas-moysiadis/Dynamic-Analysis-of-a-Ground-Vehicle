@@ -17,13 +17,13 @@ This project investigates the dynamic behavior of a ground vehicle using a combi
 - Comparison with HyperMesh modal transient results
 
 ## Repository Contents
-- Modal_Analysis.m
-- Transient_Response_Newmark.m
-- Transient_Response_Central_Difference.m
-- data/ (HyperMesh‑exported matrices and comparison data)
+- 'Modal_Analysis.m'
+- 'Transient_Response_Newmark.m'
+- 'Transient_Response_Central_Difference.m'
+- 'data/' (HyperMesh‑exported matrices and comparison data)
 
 ## How to Run
-- Load the reduced matrices from the data/ directory
-- Run Modal_Analysis.m to compute and compare natural frequencies
-- Run Transient_Response_Newmark.m or Transient_Response_Central_Difference.m to simulate the dynamic response
+- Load the reduced matrices from the 'data/' directory
+- Run 'Modal_Analysis.m' to compute and compare natural frequencies
+- Run 'Transient_Response_Newmark.m' or 'Transient_Response_Central_Difference.m' to simulate the dynamic response
 - Compare numerical results with the modal transient FEA data
