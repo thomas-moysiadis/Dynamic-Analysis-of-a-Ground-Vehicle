@@ -1,11 +1,11 @@
 # Dynamic-Analysis-of-a-Ground-Vehicle
 
 ## Overview
-This project investigates the dynamic behavior of a ground vehicle using a combination of finite‑element analysis (HyperMesh-OptiStruct) and numerical modeling in MATLAB. The workflow includes modal, static, and transient analyses in HyperMesh, followed by the construction of reduced‑order models, modal analysis, and numerical time integration using Newmark and Central Difference methods.
+This project investigates the dynamic behavior of a ground vehicle using a combination of finite‑element analysis (HyperMesh-OptiStruct) and numerical modeling in MATLAB. The workflow includes modal, static, and transient analyses in HyperMesh, followed by the construction of reduced‑order model, modal analysis, and numerical time integration using Newmark and Central Difference methods.
 
 ## Part 1 — HyperMesh FEA (Summary Only)
 - CAD import and refinement
-- Modal, static, and transient (modal and direct) analyses
+- Modal, static, and transient (modal and direct) analysis
 - Export of modal transient response data in selected points (B1-B4 and I1-I3)
 
 ## Part 2 — Numerical Model (Included in Repository)
